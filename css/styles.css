@@ -77,7 +77,7 @@ a:hover {
   height: auto;
 }
 .skills {
-  padding: 50px 50px 100px;
+  padding: 50px 0 100px;
 }
 .css {
   width: 8%;
@@ -95,7 +95,7 @@ a:hover {
   height: auto;
 }
 .profile {
-  padding: 0 200px 50px;
+  padding: 0 50px 50px;
 }
 
 .btn {
