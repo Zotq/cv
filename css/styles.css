@@ -54,7 +54,7 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 400px;
+  right: 150px;
   top: 100px;
   width: 10%;
   height: auto;
@@ -127,7 +127,7 @@ a:hover {
   text-decoration: none;
   color: #4A4A4A;
   font-size: 32px;
-
+  vertical-align: baseline;
 }
 .copyrighttext {
   color: #FDEFEF;
@@ -135,10 +135,5 @@ a:hover {
   line-height: 4
 }
 .telegram {
-  width: 3%;
-  margin-right: 20px;
-  position: relative;
-  left: 12px;
-
-  top: 15px;
+  vertical-align: sub;
 }
